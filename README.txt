@@ -1,3 +1,9 @@
+Author: Joe Zhou
+This is the final project for Concurrent and Parallel Programming class.
+Paper: https://drive.google.com/file/d/0B_WU_ECymFUBUmQzdVpVOFpHOEU/view
+
+Usage:
+
 main.cpp is the code to be run on CPU.
 to compile: g++ main.cpp sa.cpp
 
