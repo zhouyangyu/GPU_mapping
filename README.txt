@@ -3,6 +3,7 @@ This is the final project for Concurrent and Parallel Programming class.
 Paper: https://drive.google.com/file/d/0B_WU_ECymFUBUmQzdVpVOFpHOEU/view
 
 Usage:
+Must have CUDA 8.0 and Thrust v1.8.0 installed on compatible NVIDIA Machine.
 
 main.cpp is the code to be run on CPU.
 to compile: g++ main.cpp sa.cpp
